@@ -1,0 +1,15 @@
+*.csv
+*.txt
+*.mp3
+*.json
+*.pth
+*.pkl
+/datasets/
+/.hypothesis/
+/01_interaction_classification/datasets/
+/01_interaction_classification/history/
+/01_interaction_classification/weight/01_model_cpu.pth
+/02_abuse_classification/datasets/
+/02_abuse_classification/history/
+/02_abuse_classification/weight/*.pth
+/03_crisis_classification/datasets/model/
