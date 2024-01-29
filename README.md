@@ -24,12 +24,16 @@ python train_interaction.py
 <br>
 - 문장 분류 기능으로 뛰어난 성능을 보이는 BERT를 보완한 RoBERTa 라는 pretrained 모델을 사용하여 아동 상담 내용으로부터 아동의 학대유형을 분류
 - 총 5개의 class 를 사용함 (해당없음, 방임, 성학대, 신체학대, 정서학대)<br>
+
 ```
 # 실행 코드 예시
 cd ./02_abuse_classification/
 python train_abuse.py
 ```
+
 <br>
+
+
 
 ### 아동 위기 단계 분류 모델
 ![활용모델3](https://github.com/donny95/ChildCounselingDataModel/assets/71050591/c407182d-67c5-41cc-999e-6922bbd561dc)
